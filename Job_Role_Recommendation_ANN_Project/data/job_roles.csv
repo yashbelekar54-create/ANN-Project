@@ -1,0 +1,7 @@
+role_id,role_name,role_description,required_skills,source
+1,Data Analyst,Illustrative responsibilities for Data Analyst.,sql;excel;power bi;tableau;statistics;python;data visualization,illustrative_taxonomy
+2,Data Scientist,Illustrative responsibilities for Data Scientist.,python;statistics;machine learning;pandas;numpy;scikit-learn;data visualization,illustrative_taxonomy
+3,Machine Learning Engineer,Illustrative responsibilities for Machine Learning Engineer.,python;machine learning;tensorflow;keras;pytorch;model deployment;docker,illustrative_taxonomy
+4,Data Engineer,Illustrative responsibilities for Data Engineer.,sql;python;etl;spark;airflow;data pipelines;cloud,illustrative_taxonomy
+5,Software Developer,Illustrative responsibilities for Software Developer.,python;java;javascript;git;api development;data structures;testing,illustrative_taxonomy
+6,Business Analyst,Illustrative responsibilities for Business Analyst.,requirements gathering;sql;excel;stakeholder communication;business analysis;power bi,illustrative_taxonomy

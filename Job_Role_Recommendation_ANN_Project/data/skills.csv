@@ -1,0 +1,36 @@
+skill_id,skill_name,skill_category
+1,airflow,technical
+2,api development,technical
+3,business analysis,technical
+4,cloud,technical
+5,communication,professional
+6,data pipelines,technical
+7,data structures,technical
+8,data visualization,technical
+9,docker,technical
+10,etl,technical
+11,excel,technical
+12,git,technical
+13,java,technical
+14,javascript,technical
+15,keras,technical
+16,linux,technical
+17,machine learning,technical
+18,model deployment,technical
+19,numpy,technical
+20,pandas,technical
+21,power bi,technical
+22,presentation,professional
+23,problem solving,professional
+24,python,technical
+25,pytorch,technical
+26,requirements gathering,technical
+27,scikit-learn,technical
+28,spark,technical
+29,sql,technical
+30,stakeholder communication,technical
+31,statistics,technical
+32,tableau,technical
+33,teamwork,professional
+34,tensorflow,technical
+35,testing,technical

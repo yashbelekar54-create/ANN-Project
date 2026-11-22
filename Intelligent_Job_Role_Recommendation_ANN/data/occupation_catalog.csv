@@ -1,0 +1,21 @@
+job_role,role_description,core_skills,skill_count
+Data Analyst,"Typical responsibilities for data analyst work, depending on employer and seniority.",python; sql; excel; power bi; tableau; statistics; data visualization; pandas,8
+Data Scientist,"Typical responsibilities for data scientist work, depending on employer and seniority.",python; sql; statistics; machine learning; pandas; scikit-learn; data visualization; feature engineering,8
+Machine Learning Engineer,"Typical responsibilities for machine learning engineer work, depending on employer and seniority.",python; machine learning; tensorflow; keras; scikit-learn; model deployment; apis; feature engineering,8
+Data Engineer,"Typical responsibilities for data engineer work, depending on employer and seniority.",python; sql; etl; data pipelines; spark; airflow; database; cloud,8
+Business Analyst,"Typical responsibilities for business analyst work, depending on employer and seniority.",excel; sql; requirements analysis; stakeholder management; documentation; power bi; communication,7
+Business Intelligence Developer,"Typical responsibilities for business intelligence developer work, depending on employer and seniority.",sql; power bi; tableau; data modeling; data visualization; etl; excel,7
+Python Developer,"Typical responsibilities for python developer work, depending on employer and seniority.",python; git; apis; django; flask; debugging; sql; software design,8
+Web Developer,"Typical responsibilities for web developer work, depending on employer and seniority.",html; css; javascript; react; apis; git; responsive design; debugging,8
+Backend Developer,"Typical responsibilities for backend developer work, depending on employer and seniority.",python; java; apis; sql; database; git; software design; testing,8
+Frontend Developer,"Typical responsibilities for frontend developer work, depending on employer and seniority.",html; css; javascript; react; ui design; git; responsive design,7
+Cloud Engineer,"Typical responsibilities for cloud engineer work, depending on employer and seniority.",cloud; linux; docker; kubernetes; networking; ci/cd; python; monitoring,8
+DevOps Engineer,"Typical responsibilities for devops engineer work, depending on employer and seniority.",linux; docker; kubernetes; ci/cd; git; cloud; automation; monitoring,8
+Cybersecurity Analyst,"Typical responsibilities for cybersecurity analyst work, depending on employer and seniority.",networking; linux; security monitoring; siem; incident response; python; risk assessment,7
+Database Administrator,"Typical responsibilities for database administrator work, depending on employer and seniority.",sql; database; postgresql; backup and recovery; performance tuning; linux; security,7
+AI Engineer,"Typical responsibilities for ai engineer work, depending on employer and seniority.",python; machine learning; deep learning; tensorflow; keras; nlp; model deployment; apis,8
+QA Automation Engineer,"Typical responsibilities for qa automation engineer work, depending on employer and seniority.",python; testing; selenium; automation; git; api testing; debugging; documentation,8
+UI/UX Designer,"Typical responsibilities for ui/ux designer work, depending on employer and seniority.",ui design; ux research; wireframing; prototyping; figma; communication; responsive design,7
+Java Developer,"Typical responsibilities for java developer work, depending on employer and seniority.",java; spring; sql; apis; git; testing; object-oriented programming; debugging,8
+Project Coordinator,"Typical responsibilities for project coordinator work, depending on employer and seniority.",project management; communication; documentation; stakeholder management; excel; planning; risk assessment,7
+Research Assistant,"Typical responsibilities for research assistant work, depending on employer and seniority.",research methods; statistics; python; data analysis; documentation; literature review; communication,7
